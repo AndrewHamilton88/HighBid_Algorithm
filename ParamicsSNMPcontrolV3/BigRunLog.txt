@@ -1,0 +1,200 @@
+G = 14/12/2012 14:50:55
+Object reference not set to an instance of an object.
+*******************************
+
+
+G = 14/12/2012 15:20:37
+Column count doesn't match value count at row 1
+*******************************
+
+
+G = 14/12/2012 15:27:40
+Column count doesn't match value count at row 1
+*******************************
+
+
+G = 14/12/2012 15:40:34
+Column count doesn't match value count at row 1
+*******************************
+
+
+G = 18/12/2012 16:18:53
+Could not find a part of the path 'Z:\visualizationBuffer\someCounts'.
+*******************************
+
+
+G = 18/12/2012 16:27:14
+Column count doesn't match value count at row 1
+*******************************
+
+
+G = 18/12/2012 16:38:25
+Column count doesn't match value count at row 1
+*******************************
+
+
+G = 18/12/2012 16:43:32
+Could not find a part of the path 'Z:\visualizationBuffer\someCounts'.
+*******************************
+
+
+G = 18/12/2012 16:46:37
+Could not find a part of the path 'Z:\visualizationBuffer\someCounts'.
+*******************************
+
+
+G = 18/12/2012 16:47:55
+Could not find a part of the path 'Z:\visualizationBuffer\someCounts'.
+*******************************
+
+
+G = 18/12/2012 16:51:13
+Object reference not set to an instance of an object.
+*******************************
+
+
+G = 07/01/2013 14:14:10
+Object reference not set to an instance of an object.
+*******************************
+
+
+G = 09/01/2013 04:05:12
+Object reference not set to an instance of an object.
+*******************************
+
+
+G = 09/01/2013 08:34:30
+Object reference not set to an instance of an object.
+*******************************
+
+
+G = 09/01/2013 08:35:27
+Object reference not set to an instance of an object.
+*******************************
+
+
+G = 09/01/2013 10:50:51
+Object reference not set to an instance of an object.
+*******************************
+
+
+G = 09/01/2013 16:20:39
+Object reference not set to an instance of an object.
+*******************************
+
+
+G = 22/01/2013 15:17:30
+Object reference not set to an instance of an object.
+*******************************
+
+
+G = 22/01/2013 15:24:45
+Object reference not set to an instance of an object.
+*******************************
+
+
+G = 22/01/2013 15:28:41
+Object reference not set to an instance of an object.
+*******************************
+
+
+G = 22/01/2013 15:32:15
+Object reference not set to an instance of an object.
+*******************************
+
+
+G = 22/01/2013 15:33:58
+Object reference not set to an instance of an object.
+*******************************
+
+
+G = 22/01/2013 15:53:01
+Object reference not set to an instance of an object.
+*******************************
+
+
+G = 22/01/2013 15:54:30
+Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+*******************************
+
+
+G = 22/01/2013 16:10:46
+Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+*******************************
+
+
+G = 22/01/2013 16:12:01
+Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+*******************************
+
+
+G = 23/01/2013 13:51:32
+Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+*******************************
+
+
+G = 23/01/2013 16:09:51
+Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+*******************************
+
+
+G = 23/01/2013 16:12:16
+Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+*******************************
+
+
+G = 23/01/2013 16:28:16
+Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+*******************************
+
+
+G = 23/01/2013 16:33:54
+Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+*******************************
+
+
+G = 24/01/2013 16:31:28
+Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+*******************************
+
+
+G = 25/01/2013 15:33:08
+Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+*******************************
+
+
+G = 06/09/2013 11:37:27
+Column count doesn't match value count at row 1
+*******************************
+
+
+G = 06/09/2013 11:56:29
+Object reference not set to an instance of an object.
+*******************************
+
+
+G = 06/09/2013 17:26:45
+Object reference not set to an instance of an object.
+*******************************
+
+
+G = 11/09/2013 18:01:06
+Object reference not set to an instance of an object.
+*******************************
+
+
+G = 04/12/2013 11:49:24
+Object reference not set to an instance of an object.
+*******************************
+
+
